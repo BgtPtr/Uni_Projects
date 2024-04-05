@@ -1,0 +1,14 @@
+C:\Users\Pietro\Downloads\mestint_23_24_tavasz-main\mestint_23_24_tavasz-main\B kurzus\01_Hanoi\bin\Debug\net8.0\01_Hanoi.exe
+C:\Users\Pietro\Downloads\mestint_23_24_tavasz-main\mestint_23_24_tavasz-main\B kurzus\01_Hanoi\bin\Debug\net8.0\01_Hanoi.deps.json
+C:\Users\Pietro\Downloads\mestint_23_24_tavasz-main\mestint_23_24_tavasz-main\B kurzus\01_Hanoi\bin\Debug\net8.0\01_Hanoi.runtimeconfig.json
+C:\Users\Pietro\Downloads\mestint_23_24_tavasz-main\mestint_23_24_tavasz-main\B kurzus\01_Hanoi\bin\Debug\net8.0\01_Hanoi.dll
+C:\Users\Pietro\Downloads\mestint_23_24_tavasz-main\mestint_23_24_tavasz-main\B kurzus\01_Hanoi\bin\Debug\net8.0\01_Hanoi.pdb
+C:\Users\Pietro\Downloads\mestint_23_24_tavasz-main\mestint_23_24_tavasz-main\B kurzus\01_Hanoi\obj\Debug\net8.0\01_Hanoi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pietro\Downloads\mestint_23_24_tavasz-main\mestint_23_24_tavasz-main\B kurzus\01_Hanoi\obj\Debug\net8.0\01_Hanoi.AssemblyInfoInputs.cache
+C:\Users\Pietro\Downloads\mestint_23_24_tavasz-main\mestint_23_24_tavasz-main\B kurzus\01_Hanoi\obj\Debug\net8.0\01_Hanoi.AssemblyInfo.cs
+C:\Users\Pietro\Downloads\mestint_23_24_tavasz-main\mestint_23_24_tavasz-main\B kurzus\01_Hanoi\obj\Debug\net8.0\01_Hanoi.csproj.CoreCompileInputs.cache
+C:\Users\Pietro\Downloads\mestint_23_24_tavasz-main\mestint_23_24_tavasz-main\B kurzus\01_Hanoi\obj\Debug\net8.0\01_Hanoi.dll
+C:\Users\Pietro\Downloads\mestint_23_24_tavasz-main\mestint_23_24_tavasz-main\B kurzus\01_Hanoi\obj\Debug\net8.0\refint\01_Hanoi.dll
+C:\Users\Pietro\Downloads\mestint_23_24_tavasz-main\mestint_23_24_tavasz-main\B kurzus\01_Hanoi\obj\Debug\net8.0\01_Hanoi.pdb
+C:\Users\Pietro\Downloads\mestint_23_24_tavasz-main\mestint_23_24_tavasz-main\B kurzus\01_Hanoi\obj\Debug\net8.0\01_Hanoi.genruntimeconfig.cache
+C:\Users\Pietro\Downloads\mestint_23_24_tavasz-main\mestint_23_24_tavasz-main\B kurzus\01_Hanoi\obj\Debug\net8.0\ref\01_Hanoi.dll
