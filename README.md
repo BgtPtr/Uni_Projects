@@ -1,1 +1,3 @@
 # Uni_Projects
+
+Minden, ami egyetemmel kapcsolatos munka / beadandó...
